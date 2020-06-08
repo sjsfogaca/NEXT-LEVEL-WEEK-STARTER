@@ -7,5 +7,5 @@ Por Mayk Brito da Rocketseat
 - HTML
 - CSS
 - Node.js
-# Banco de Dados
+# Banco de dados
 - SQLite3
