@@ -7,5 +7,5 @@ Ministrada pelo Mayk Brito da Rocketseat
 - HTML
 - CSS
 - Node.js
-# Banco de Dados usado
+# Banco de Dados
 - SQLite3
