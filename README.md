@@ -9,4 +9,4 @@ Ministrada pelo Mayk Brito da Rocketseat
 - Node.js
 
 # Banco de Dados usado
-SQLite3
+- SQLite3
